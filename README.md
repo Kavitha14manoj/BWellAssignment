@@ -7,7 +7,7 @@ https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.
 2. Install Python
 https://www.python.org/downloads/
 
-3.Install Selenium
+3. Install Selenium
 https://selenium-python.readthedocs.io/installation.html
 On terminal "pip install selenium"
 
